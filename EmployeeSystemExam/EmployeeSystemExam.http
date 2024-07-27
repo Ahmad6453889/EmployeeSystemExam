@@ -1,0 +1,6 @@
+@EmployeeSystemExam_HostAddress = http://localhost:5265
+
+GET {{EmployeeSystemExam_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
